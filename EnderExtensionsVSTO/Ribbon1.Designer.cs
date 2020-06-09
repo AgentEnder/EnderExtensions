@@ -71,7 +71,7 @@
             // 
             this.copyAsNumericSql.Label = "Copy as SQL (numeric)";
             this.copyAsNumericSql.Name = "copyAsNumericSql";
-            this.copyAsNumericSql.OfficeImageId = "AdpViewSqlPane";
+            this.copyAsNumericSql.OfficeImageId = "AdpStoredProcedureEditSql";
             this.copyAsNumericSql.ShowImage = true;
             this.copyAsNumericSql.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.copyAsNumericSql_Click);
             // 
@@ -79,7 +79,7 @@
             // 
             this.copyAsCSharp.Label = "Copy as C#";
             this.copyAsCSharp.Name = "copyAsCSharp";
-            this.copyAsCSharp.OfficeImageId = "AdpViewSqlPane";
+            this.copyAsCSharp.OfficeImageId = "ControlPropertyCustomCodeAction";
             this.copyAsCSharp.ShowImage = true;
             this.copyAsCSharp.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.copyAsCSharp_Click);
             // 
@@ -87,7 +87,7 @@
             // 
             this.copyAsCSharpNumeric.Label = "Copy as C# (numeric)";
             this.copyAsCSharpNumeric.Name = "copyAsCSharpNumeric";
-            this.copyAsCSharpNumeric.OfficeImageId = "AdpViewSqlPane";
+            this.copyAsCSharpNumeric.OfficeImageId = "CustomPageNumberGallery";
             this.copyAsCSharpNumeric.ShowImage = true;
             this.copyAsCSharpNumeric.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.copyAsCSharpNumeric_Click);
             // 
